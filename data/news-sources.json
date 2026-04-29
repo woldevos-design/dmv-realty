@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Mortgage News Daily",
+    "url": "https://www.mortgagenewsdaily.com/rss/headlines.xml",
+    "active": true
+  },
+  {
+    "id": "2",
+    "name": "HousingWire",
+    "url": "https://www.housingwire.com/feed/",
+    "active": true
+  },
+  {
+    "id": "3",
+    "name": "U.S. News Real Estate",
+    "url": "https://realestate.usnews.com/rss/real-estate",
+    "active": true
+  },
+  {
+    "id": "4",
+    "name": "NAR Research",
+    "url": "https://www.nar.realtor/feed",
+    "active": true
+  },
+  {
+    "name": "Washington Post",
+    "url": "https://subscribe.washingtonpost.com/",
+    "id": "1777325281227",
+    "active": true
+  }
+]

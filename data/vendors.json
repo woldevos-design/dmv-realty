@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1",
+    "name": "Capitol Mortgage Group",
+    "category": "Mortgage & Lending",
+    "description": "Full-service mortgage lender specializing in first-time buyers and jumbo loans across the DMV. Competitive rates and fast closings.",
+    "phone": "(202) 555-0210",
+    "email": "loans@capitolmortgage.com",
+    "website": "https://example.com",
+    "location": "Washington, DC",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "DMV Home Inspections LLC",
+    "category": "Home Inspection",
+    "description": "Certified home inspectors with 20+ years of experience. Comprehensive reports delivered within 24 hours.",
+    "phone": "(301) 555-0187",
+    "email": "inspect@dmvhomeinspect.com",
+    "website": "",
+    "location": "Rockville, MD",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Old Dominion Title & Settlement",
+    "category": "Title & Settlement",
+    "description": "Streamlined title services and settlement coordination for residential and commercial transactions across Virginia.",
+    "phone": "(703) 555-0142",
+    "email": "title@olddominiontitle.com",
+    "website": "",
+    "location": "Arlington, VA",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "name": "Renovate DMV",
+    "category": "Contractors & Renovation",
+    "description": "Full-service renovation and general contracting. Kitchens, baths, additions, and whole-home remodels.",
+    "phone": "(301) 555-0163",
+    "email": "hello@renovatedmv.com",
+    "website": "",
+    "location": "Silver Spring, MD",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "Metro Movers DC",
+    "category": "Moving Services",
+    "description": "Licensed and insured movers serving the entire DMV. Local and long-distance moves with white-glove service.",
+    "phone": "(202) 555-0175",
+    "email": "move@metromoversdc.com",
+    "website": "",
+    "location": "Washington, DC",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "Beltway Real Estate Law",
+    "category": "Real Estate Attorney",
+    "description": "Experienced real estate attorneys handling purchases, sales, leases, and disputes throughout DC, MD, and VA.",
+    "phone": "(202) 555-0191",
+    "email": "contact@beltwaylaw.com",
+    "website": "",
+    "location": "Washington, DC",
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "Capital Interiors Studio",
+    "category": "Interior Design",
+    "description": "Award-winning interior design firm specializing in staging, renovation design, and new home styling.",
+    "phone": "(703) 555-0223",
+    "email": "design@capitalinteriors.com",
+    "website": "",
+    "location": "McLean, VA",
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Chesapeake Property Management",
+    "category": "Property Management",
+    "description": "Full-service property management for investors and landlords across the DMV. Tenant screening, maintenance, and accounting.",
+    "phone": "(301) 555-0134",
+    "email": "manage@chesapeakepm.com",
+    "website": "",
+    "location": "Bethesda, MD",
+    "featured": false
+  },
+  {
+    "name": "Birish The Professor",
+    "category": "Property Management",
+    "description": "Birish the Professor is a brand built on knowledge, clarity, and real-world experience—where education meets action. Focused on simplifying complex ideas, Birish breaks down topics like business, finance, and real estate into practical, easy-to-understand insights that anyone can apply. The mission is simple: teach in a way that empowers people to make smarter decisions, build confidence, and take control of their future.\nMore than just information, Birish the Professor represents guidance and strategy. Whether it’s helping someone understand how money works, how to navigate investments, or how to think like a business owner, the approach is always clear, direct, and grounded in real results. It’s not about theory—it’s about giving people the tools, mindset, and direction to move forward with purpose.",
+    "phone": "3012543568",
+    "email": "birishthepro@gmail.com",
+    "website": "",
+    "location": "Virginia",
+    "featured": true,
+    "logo": "/uploads/vendors/1777326675001-jb9ih.png",
+    "gallery": [
+      "/uploads/vendors/1777327185564-lf593.png",
+      "/uploads/vendors/1777327194124-qxvnc.png",
+      "/uploads/vendors/1777327205732-yq9xb.png",
+      "/uploads/vendors/1777327224288-9kltg.png"
+    ],
+    "id": "1777325225838"
+  },
+  {
+    "name": "Essayas The Rise Maker",
+    "category": "Interior Design",
+    "description": "Essayas The Rise Maker is a purpose-driven brand focused on helping individuals and businesses elevate their vision, build strong foundations, and turn ideas into real growth. Through strategy, creativity, and leadership, the brand is committed to guiding others toward lasting success and impact.",
+    "phone": "7023451627",
+    "email": "essarisemkaer@gmail.com",
+    "website": "www.essayastherisemaker.com",
+    "location": "Maryland",
+    "featured": false,
+    "logo": "/uploads/vendors/1777335691244-ucgre.jpg",
+    "gallery": [
+      "/uploads/vendors/1777335703333-5cblo.jpg",
+      "/uploads/vendors/1777335710748-renxh.jpg",
+      ""
+    ],
+    "id": "1777335761530"
+  }
+]

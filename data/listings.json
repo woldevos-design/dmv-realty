@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "price": "$875,000",
+    "address": "4821 Maple Ave",
+    "city": "Bethesda, MD",
+    "beds": 4,
+    "baths": 3,
+    "sqft": "2,450",
+    "type": "Single Family",
+    "status": "Active",
+    "description": "Stunning colonial on a quiet cul-de-sac. Updated kitchen, hardwood floors throughout, and a beautifully landscaped backyard.",
+    "features": ["2-car garage", "Finished basement", "Deck", "Updated kitchen"]
+  },
+  {
+    "id": "2",
+    "price": "$649,000",
+    "address": "312 Clarendon Blvd #4B",
+    "city": "Arlington, VA",
+    "beds": 3,
+    "baths": 2,
+    "sqft": "1,850",
+    "type": "Townhouse",
+    "status": "Active",
+    "description": "Modern townhouse steps from the Metro. Open-concept living, rooftop deck with panoramic views, and high-end finishes.",
+    "features": ["Rooftop deck", "Metro access", "EV charging", "Smart home"]
+  },
+  {
+    "id": "3",
+    "price": "$525,000",
+    "address": "219 8th St SE #301",
+    "city": "Capitol Hill, DC",
+    "beds": 2,
+    "baths": 2,
+    "sqft": "1,200",
+    "type": "Condo",
+    "status": "Active",
+    "description": "Light-filled Capitol Hill condo with private balcony, in-unit laundry, and secure parking. Walk to Eastern Market.",
+    "features": ["Balcony", "In-unit laundry", "Secure parking", "Concierge"]
+  },
+  {
+    "id": "4",
+    "price": "$1,150,000",
+    "address": "7203 River Rd",
+    "city": "McLean, VA",
+    "beds": 5,
+    "baths": 4,
+    "sqft": "3,800",
+    "type": "Single Family",
+    "status": "Active",
+    "description": "Grand McLean estate with soaring ceilings, chef's kitchen, and resort-style backyard. Top-rated Fairfax County schools.",
+    "features": ["Pool", "3-car garage", "Chef's kitchen", "Home theater"]
+  },
+  {
+    "id": "5",
+    "price": "$389,000",
+    "address": "1401 Oglethorpe St NW #2A",
+    "city": "Washington, DC",
+    "beds": 1,
+    "baths": 1,
+    "sqft": "780",
+    "type": "Condo",
+    "status": "Under Contract",
+    "description": "Charming Petworth condo in a historic building. Exposed brick, original hardwoods, and a private courtyard.",
+    "features": ["Exposed brick", "Courtyard", "Storage unit", "Pet friendly"]
+  },
+  {
+    "id": "6",
+    "price": "$595,000",
+    "address": "9032 Colesville Rd",
+    "city": "Silver Spring, MD",
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": "2,100",
+    "type": "Townhouse",
+    "status": "Active",
+    "description": "Beautifully updated townhouse near downtown Silver Spring. New roof, HVAC, and kitchen. Easy Metro commute.",
+    "features": ["New HVAC", "New roof", "Updated kitchen", "Fenced yard"]
+  }
+]

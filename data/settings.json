@@ -1,0 +1,27 @@
+{
+  "siteName": "Alex Johnson Real Estate",
+  "tagline": "Your DMV Real Estate Expert",
+  "agentName": "Alex Johnson",
+  "agentTitle": "Licensed Real Estate Agent",
+  "brokerage": "DMV Premier Realty",
+  "licenseNumber": "AB123456",
+  "phone": "(202) 555-0199",
+  "email": "alex@dmvpremierrealty.com",
+  "address": "1234 K Street NW, Suite 500",
+  "city": "Washington, DC 20005",
+  "facebook": "#",
+  "instagram": "#",
+  "linkedin": "#",
+  "colors": {
+    "primary": "#0f2b5b",
+    "accent": "#c9a84c",
+    "primaryHover": "#163a7a"
+  },
+  "fonts": {
+    "heading": "Georgia",
+    "body": "Inter"
+  },
+  "heroTitle": "Find Your Perfect Home in the DMV Area",
+  "heroSubtitle": "With 14 years of expertise across the DMV market, Alex Johnson delivers results-driven real estate services tailored to your goals.",
+  "aboutBio": "A lifelong DMV resident, I grew up watching the region transform into one of the most dynamic real estate markets in the country. After earning a degree in Business Administration from the University of Maryland, I discovered my passion for helping people navigate one of the biggest decisions of their lives.\n\nOver the past 14 years, I've closed more than 500 transactions — from cozy Capitol Hill condos and Bethesda single-families to Northern Virginia investment properties.\n\nI'm known for my straight-talking approach, obsessive market research, and fierce advocacy for my clients."
+}
