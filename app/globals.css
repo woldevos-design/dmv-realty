@@ -7,7 +7,7 @@
     scroll-behavior: smooth;
   }
   body {
-    @apply text-gray-800 bg-white;
+    @apply text-gray-800 bg-gray-50;
   }
   h1, h2, h3 {
     @apply font-serif;
